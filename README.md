@@ -1,5 +1,4 @@
-# Letterboxd-Analytics
-## Exploring My Movie Data
+# Letterboxd Analytics: Exploring My Movie Data
 
 ### Summary 
 
