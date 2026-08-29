@@ -1,8 +1,8 @@
 # Letterboxd-Analytics
-# Exploring My Movie Data
+## Exploring My Movie Data
 
-# Summary 
+###Summary 
 
-# Steps 
+### Steps 
 
-# Dashboard
+### Dashboard
