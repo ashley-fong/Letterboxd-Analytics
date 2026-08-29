@@ -1,7 +1,7 @@
 # Letterboxd-Analytics
 ## Exploring My Movie Data
 
-###Summary 
+### Summary 
 
 ### Steps 
 
