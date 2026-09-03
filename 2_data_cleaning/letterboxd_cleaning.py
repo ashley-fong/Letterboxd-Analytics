@@ -1,9 +1,9 @@
 import pandas as pd 
 
 # reading all needed datasets 
-diary = pd.read_csv('/Users/ashleyfong/Documents/Letterboxd/Letterboxd-Analytics/1_raw_data/diary.csv')
-watched = pd.read_csv('/Users/ashleyfong/Documents/Letterboxd/Letterboxd-Analytics/1_raw_data/watched.csv')
-likes_films = pd.read_csv('/Users/ashleyfong/Documents/Letterboxd/Letterboxd-Analytics/1_raw_data/likes/films.csv')
+diary = pd.read_csv('/Users/ashleyfong/Documents/Letterboxd/Letterboxd-Analytics/1_raw_data/letterboxd/diary.csv')
+watched = pd.read_csv('/Users/ashleyfong/Documents/Letterboxd/Letterboxd-Analytics/1_raw_data/letterboxd/watched.csv')
+likes_films = pd.read_csv('/Users/ashleyfong/Documents/Letterboxd/Letterboxd-Analytics/1_raw_data/letterboxd/likes/films.csv')
 
 # right merging for all movies watched 
 # watched csv has all movies 'watched' (user has clicked watched on letterboxd)
