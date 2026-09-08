@@ -1,0 +1,362 @@
+Title,Year,Runtime,Genre,Director,Actors,imdbRating
+The Batman,2022,176 min,"Action, Crime, Drama",Matt Reeves,"Robert Pattinson, Zoë Kravitz, Jeffrey Wright",7.8
+Mean Girls,2004,97 min,Comedy,Mark Waters,"Lindsay Lohan, Jonathan Bennett, Rachel McAdams",7.1
+Star Wars: Episode VI - Return of the Jedi,1983,131 min,"Action, Adventure, Fantasy",Richard Marquand,"Mark Hamill, Harrison Ford, Carrie Fisher",8.3
+Rogue One: A Star Wars Story,2016,133 min,"Action, Adventure, Sci-Fi",Gareth Edwards,"Felicity Jones, Diego Luna, Alan Tudyk",7.8
+Star Wars: Episode IX - The Rise of Skywalker,2019,141 min,"Action, Adventure, Fantasy",J.J. Abrams,"Daisy Ridley, John Boyega, Oscar Isaac",6.3
+Ferris Bueller's Day Off,1986,103 min,Comedy,John Hughes,"Matthew Broderick, Alan Ruck, Mia Sara",7.8
+Luca,2021,95 min,"Animation, Adventure, Comedy",Enrico Casarosa,"Jacob Tremblay, Jack Dylan Grazer, Emma Berman",7.4
+Turning Red,2022,100 min,"Animation, Adventure, Comedy",Domee Shi,"Rosalie Chiang, Sandra Oh, Ava Morse",6.9
+"tick, tick... BOOM!",2021,115 min,"Biography, Comedy, Drama",Lin-Manuel Miranda,"Andrew Garfield, Alexandra Shipp, Robin de Jesus",7.5
+The Amazing Spider-Man,2012,136 min,"Action, Sci-Fi",Marc Webb,"Andrew Garfield, Emma Stone, Rhys Ifans",6.9
+The Amazing Spider-Man 2,2014,142 min,"Action, Adventure, Sci-Fi",Marc Webb,"Andrew Garfield, Emma Stone, Jamie Foxx",6.6
+Zootopia,2016,108 min,"Animation, Action, Adventure","Jared Bush, Byron Howard, Rich Moore","Ginnifer Goodwin, Jason Bateman, Idris Elba",8.0
+The Devil Wears Prada,2006,109 min,"Comedy, Drama",David Frankel,"Anne Hathaway, Meryl Streep, Adrian Grenier",7.0
+Tangled,2010,100 min,"Animation, Adventure, Comedy","Nathan Greno, Byron Howard","Mandy Moore, Zachary Levi, Donna Murphy",7.7
+Star Wars: Episode VII - The Force Awakens,2015,138 min,"Action, Adventure, Sci-Fi",J.J. Abrams,"Daisy Ridley, John Boyega, Oscar Isaac",7.7
+Ant-Man and the Wasp,2018,118 min,"Action, Adventure, Comedy",Peyton Reed,"Paul Rudd, Evangeline Lilly, Michael Peña",7.0
+Big Hero 6,2014,102 min,"Animation, Action, Adventure","Don Hall, Chris Williams","Ryan Potter, Scott Adsit, Jamie Chung",7.8
+Palm Springs,2020,90 min,"Comedy, Fantasy, Mystery",Max Barbakow,"Andy Samberg, Cristin Milioti, J.K. Simmons",7.4
+Jennifer's Body,2009,102 min,"Comedy, Horror",Karyn Kusama,"Megan Fox, Amanda Seyfried, Adam Brody",5.6
+The Queen's Gambit,2020,395 min,Drama,N/A,"Anya Taylor-Joy, Chloe Pirrie, Bill Camp",8.5
+Fresh,2022,114 min,"Comedy, Horror, Romance",Mimi Cave,"Daisy Edgar-Jones, Sebastian Stan, Jojo T. Gibbs",6.7
+American Assassin,2017,111 min,"Action, Thriller",Michael Cuesta,"Dylan O'Brien, Michael Keaton, Sanaa Lathan",6.2
+The First Time,2012,95 min,"Comedy, Drama, Romance",Jonathan Kasdan,"Dylan O'Brien, Britt Robertson, Victoria Justice",6.8
+Maze Runner: The Scorch Trials,2015,131 min,"Action, Adventure, Sci-Fi",Wes Ball,"Dylan O'Brien, Kaya Scodelario, Thomas Brodie-Sangster",6.3
+Maze Runner: The Death Cure,2018,143 min,"Action, Adventure, Sci-Fi",Wes Ball,"Dylan O'Brien, Ki Hong Lee, Kaya Scodelario",6.3
+Not Okay,2022,100 min,"Comedy, Drama, Thriller",Quinn Shephard,"Zoey Deutch, Mia Isaac, Dylan O'Brien",6.1
+Do Revenge,2022,118 min,"Comedy, Drama, Romance",Jennifer Kaytin Robinson,"Camila Mendes, Maya Hawke, Austin Abrams",6.3
+The Spectacular Now,2013,95 min,"Drama, Romance",James Ponsoldt,"Miles Teller, Shailene Woodley, Kyle Chandler",7.0
+The Edge of Seventeen,2016,104 min,"Comedy, Drama, Romance",Kelly Fremon Craig,"Hailee Steinfeld, Haley Lu Richardson, Blake Jenner",7.3
+Not Another Teen Movie,2001,89 min,"Comedy, Romance",Joel Gallen,"Chyler Leigh, Jaime Pressly, Chris Evans",5.8
+Moana,2016,107 min,"Animation, Adventure, Comedy","Ron Clements, John Musker, Don Hall","Auli'i Cravalho, Dwayne Johnson, Rachel House",7.6
+Toy Story,1995,81 min,"Animation, Adventure, Comedy",John Lasseter,"Tom Hanks, Tim Allen, Don Rickles",8.3
+The Maze Runner,2014,113 min,"Action, Mystery, Sci-Fi",Wes Ball,"Dylan O'Brien, Kaya Scodelario, Will Poulter",6.8
+Not a Love Story: Making (500) Days of Summer,2009,30 min,"Documentary, Short",Charles de Lauzirika,"Zooey Deschanel, Joseph Gordon-Levitt, Scott Neustadter, Marc Webb",7.7
+Coco,2017,105 min,"Animation, Adventure, Drama","Adrian Molina, Lee Unkrich","Anthony Gonzalez, Gael García Bernal, Benjamin Bratt",8.4
+Ratatouille,2007,111 min,"Animation, Adventure, Comedy","Brad Bird, Jan Pinkava","Brad Garrett, Lou Romano, Patton Oswalt",8.1
+Inside Out,2015,95 min,"Animation, Adventure, Comedy","Pete Docter, Ronnie Del Carmen","Amy Poehler, Bill Hader, Lewis Black",8.1
+Thor: Ragnarok,2017,130 min,"Action, Adventure, Comedy",Taika Waititi,"Chris Hemsworth, Tom Hiddleston, Cate Blanchett",7.9
+The Perks of Being a Wallflower,2012,103 min,Drama,Stephen Chbosky,"Logan Lerman, Emma Watson, Ezra Miller",7.9
+Spider-Man: Homecoming,2017,133 min,"Action, Adventure, Sci-Fi",Jon Watts,"Tom Holland, Michael Keaton, Robert Downey Jr.",7.4
+The Social Network,2010,120 min,"Biography, Drama",David Fincher,"Jesse Eisenberg, Andrew Garfield, Justin Timberlake",7.8
+Avengers: Infinity War,2018,149 min,"Action, Adventure, Sci-Fi","Anthony Russo, Joe Russo","Robert Downey Jr., Chris Hemsworth, Mark Ruffalo",8.4
+Back to the Future,1985,116 min,"Adventure, Comedy, Sci-Fi",Robert Zemeckis,"Michael J. Fox, Christopher Lloyd, Lea Thompson",8.5
+Avengers: Endgame,2019,181 min,"Action, Adventure, Sci-Fi","Anthony Russo, Joe Russo","Robert Downey Jr., Chris Evans, Mark Ruffalo",8.4
+Up,2009,96 min,"Animation, Adventure, Comedy","Pete Docter, Bob Peterson","Edward Asner, Jordan Nagai, John Ratzenberger",8.3
+Far From Home,2019,13 min,"Short, Sci-Fi",Kyle Tisdale,"Amanda Dorian, Lincoln Hoppe, Jenna Dorian",N/A
+Black Panther,2018,134 min,"Action, Adventure, Sci-Fi",Ryan Coogler,"Chadwick Boseman, Michael B. Jordan, Lupita Nyong'o",7.3
+10 Things I Hate About You,1999,97 min,"Comedy, Drama, Romance",Gil Junger,"Heath Ledger, Julia Stiles, Joseph Gordon-Levitt",7.4
+Whiplash,2014,106 min,"Drama, Music",Damien Chazelle,"Miles Teller, J.K. Simmons, Melissa Benoist",8.5
+La La Land,2016,128 min,"Comedy, Drama, Music",Damien Chazelle,"Ryan Gosling, Emma Stone, Rosemarie DeWitt",8.0
+The Breakfast Club,1985,97 min,"Comedy, Drama",John Hughes,"Emilio Estevez, Judd Nelson, Molly Ringwald",7.8
+Shang-Chi and the Legend of the Ten Rings,2021,132 min,"Action, Adventure, Fantasy",Destin Daniel Cretton,"Simu Liu, Awkwafina, Tony Leung Chiu-wai",7.3
+Captain Marvel,2019,123 min,"Action, Adventure, Sci-Fi","Anna Boden, Ryan Fleck","Brie Larson, Samuel L. Jackson, Ben Mendelsohn",6.7
+Titanic,1997,194 min,"Drama, Romance",James Cameron,"Leonardo DiCaprio, Kate Winslet, Billy Zane",8.0
+Star Wars: Episode IV - A New Hope,1977,121 min,"Action, Adventure, Fantasy",George Lucas,"Mark Hamill, Harrison Ford, Carrie Fisher",8.6
+Daisy Jones & The Six,2023,N/A,"Drama, Music, Romance",N/A,"Riley Keough, Sam Claflin, Camila Morrone",8.1
+The Super Mario Bros. Movie,2023,92 min,"Animation, Adventure, Comedy","Aaron Horvath, Michael Jelenic, Pierre Leduc","Chris Pratt, Anya Taylor-Joy, Charlie Day",7.0
+Prom Pact,2023,99 min,"Comedy, Family, Romance",Anya Adams,"Peyton Elizabeth Lee, Milo Manheim, Blake Draper",6.4
+The Menu,2022,107 min,"Comedy, Horror, Thriller",Mark Mylod,"Ralph Fiennes, Anya Taylor-Joy, Nicholas Hoult",7.2
+Ready or Not,2019,95 min,"Action, Comedy, Horror","Matt Bettinelli-Olpin, Tyler Gillett","Samara Weaving, Adam Brody, Mark O'Brien",6.9
+Pitch Perfect,2012,112 min,"Comedy, Music, Romance",Jason Moore,"Anna Kendrick, Brittany Snow, Rebel Wilson",7.1
+Stuck in Love.,2012,97 min,"Comedy, Drama, Romance",Josh Boone,"Greg Kinnear, Jennifer Connelly, Lily Collins",7.2
+The Hunger Games,2012,142 min,"Action, Adventure, Sci-Fi",Gary Ross,"Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth",7.2
+The Hunger Games: Catching Fire,2013,146 min,"Action, Adventure, Sci-Fi",Francis Lawrence,"Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth",7.5
+The Hunger Games: Mockingjay - Part 1,2014,123 min,"Action, Adventure, Sci-Fi",Francis Lawrence,"Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth",6.6
+The Hunger Games: Mockingjay - Part 2,2015,137 min,"Action, Adventure, Sci-Fi",Francis Lawrence,"Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth",6.6
+Missing,2023,111 min,"Drama, Mystery, Thriller","Nicholas D. Johnson, Will Merrick","Tim Griffin, Ava Zaria Lee, Nia Long",7.1
+She's All That,1999,95 min,"Comedy, Romance",Robert Iscove,"Freddie Prinze Jr., Rachael Leigh Cook, Matthew Lillard",5.9
+How to Lose a Guy in 10 Days,2003,116 min,"Comedy, Romance",Donald Petrie,"Kate Hudson, Matthew McConaughey, Adam Goldberg",6.5
+13 Going on 30,2004,98 min,"Comedy, Fantasy, Romance",Gary Winick,"Jennifer Garner, Mark Ruffalo, Judy Greer",6.3
+Nerve,2016,96 min,"Adventure, Crime, Drama","Henry Joost, Ariel Schulman","Emma Roberts, Dave Franco, Emily Meade",6.5
+"Love, Rosie",2014,102 min,"Comedy, Romance",Christian Ditter,"Lily Collins, Sam Claflin, Christian Cooke",7.1
+The Starving Games,2013,83 min,"Adventure, Comedy, Sci-Fi","Jason Friedberg, Aaron Seltzer","Maiara Walsh, Brant Daugherty, Cody Christian",3.2
+Legally Blonde,2001,96 min,"Comedy, Romance",Robert Luketic,"Reese Witherspoon, Luke Wilson, Selma Blair",6.5
+The Mortal Instruments: City of Bones,2013,130 min,"Action, Adventure, Fantasy",Harald Zwart,"Lily Collins, Jamie Campbell Bower, Robert Sheehan",5.8
+Juno,2007,96 min,"Comedy, Drama",Jason Reitman,"Elliot Page, Michael Cera, Jennifer Garner",7.4
+Taylor Swift: Folklore: The Long Pond Studio Sessions,2020,105 min,"Documentary, Drama, Music",Taylor Swift,"Taylor Swift, Aaron Dessner, Jack Antonoff",8.4
+Everything Everywhere All at Once,2022,139 min,"Action, Adventure, Comedy","Daniel Kwan, Daniel Scheinert","Michelle Yeoh, Stephanie Hsu, Jamie Lee Curtis",7.7
+Spider-Man: Into the Spider-Verse,2018,117 min,"Animation, Action, Adventure","Bob Persichetti, Peter Ramsey, Rodney Rothman","Shameik Moore, Jake Johnson, Hailee Steinfeld",8.4
+A Walk to Remember,2002,101 min,"Drama, Romance",Adam Shankman,"Mandy Moore, Shane West, Peter Coyote",7.3
+Spider-Man 2,2004,127 min,"Action, Adventure, Sci-Fi",Sam Raimi,"Tobey Maguire, Kirsten Dunst, Alfred Molina",7.5
+Spider-Man,2002,121 min,"Action, Adventure, Sci-Fi",Sam Raimi,"Tobey Maguire, Kirsten Dunst, Willem Dafoe",7.4
+Spider-Man 3,2007,139 min,"Action, Adventure, Sci-Fi",Sam Raimi,"Tobey Maguire, Kirsten Dunst, Topher Grace",6.3
+"Crazy, Stupid, Love.",2011,118 min,"Comedy, Drama, Romance","Glenn Ficarra, John Requa","Steve Carell, Ryan Gosling, Julianne Moore",7.4
+Hamilton,2020,160 min,"Biography, Drama, History",Thomas Kail,"Lin-Manuel Miranda, Phillipa Soo, Leslie Odom Jr.",8.3
+The Matrix,1999,136 min,"Action, Sci-Fi","Lana Wachowski, Lilly Wachowski","Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",8.7
+Inception,2010,148 min,"Action, Adventure, Sci-Fi",Christopher Nolan,"Leonardo DiCaprio, Joseph Gordon-Levitt, Elliot Page",8.8
+Ghost in the Shell,1995,83 min,"Animation, Action, Crime",Mamoru Oshii,"Atsuko Tanaka, Iemasa Kayumi, Akio Ôtsuka",7.9
+Ex Machina: Behind the Scenes Vignettes,2015,29 min,"Documentary, Short",N/A,"Geoff Barrow, Mark Digby, Alex Garland, Domhnall Gleeson",7.1
+Teen Beach Movie,2013,110 min,"Comedy, Family, Fantasy",Jeffrey Hornaday,"Ross Lynch, Maia Mitchell, Gracie Gillam",6.0
+Barbie,2023,114 min,"Adventure, Comedy, Fantasy",Greta Gerwig,"Margot Robbie, Ryan Gosling, Issa Rae",6.8
+Annihilation,2018,115 min,"Adventure, Drama, Horror",Alex Garland,"Natalie Portman, Jennifer Jason Leigh, Tessa Thompson",6.8
+12 Monkeys,1995,129 min,"Mystery, Sci-Fi, Thriller",Terry Gilliam,"Bruce Willis, Madeleine Stowe, Brad Pitt",8.0
+Minority Report,2002,145 min,"Action, Crime, Mystery",Steven Spielberg,"Tom Cruise, Colin Farrell, Samantha Morton",7.6
+27 Dresses,2008,111 min,"Comedy, Romance",Anne Fletcher,"Katherine Heigl, James Marsden, Malin Akerman",6.1
+The Imitation Game,2014,114 min,"Biography, Drama, Thriller",Morten Tyldum,"Benedict Cumberbatch, Keira Knightley, Matthew Goode",8.0
+Little Miss Sunshine,2006,101 min,"Comedy, Drama","Jonathan Dayton, Valerie Faris","Steve Carell, Toni Collette, Greg Kinnear",7.8
+Me Before You,2016,110 min,"Drama, Romance",Thea Sharrock,"Emilia Clarke, Sam Claflin, Janet McTeer",7.4
+21 Jump Street,2012,109 min,"Action, Comedy, Crime","Phil Lord, Christopher Miller","Jonah Hill, Channing Tatum, Ice Cube",7.2
+22 Jump Street,2014,112 min,"Action, Comedy, Crime","Phil Lord, Christopher Miller","Channing Tatum, Jonah Hill, Ice Cube",7.0
+Taylor Swift: The Eras Tour,2023,169 min,"Documentary, Music, Musical",Sam Wrench,"Taylor Swift, Mike Meadows, Max Bernstein",8.0
+"Red, White & Royal Blue",2023,118 min,"Comedy, Romance",Matthew López,"Taylor Zakhar Perez, Nicholas Galitzine, Uma Thurman",7.0
+The Other Zoey,2023,91 min,"Comedy, Drama, Romance",Sara Zandieh,"Josephine Langford, Drew Starkey, Archie Renaux",5.9
+The Rocky Horror Picture Show,1975,100 min,"Comedy, Horror, Musical",Jim Sharman,"Tim Curry, Susan Sarandon, Barry Bostwick",7.4
+Bodies Bodies Bodies,2022,94 min,"Comedy, Horror, Mystery",Halina Reijn,"Amandla Stenberg, Maria Bakalova, Myha'la",6.2
+Bottoms,2023,91 min,Comedy,Emma Seligman,"Rachel Sennott, Ayo Edebiri, Ruby Cruz",6.7
+Hannah Montana: The Movie,2009,102 min,"Comedy, Drama, Family",Peter Chelsom,"Miley Cyrus, Emily Osment, Billy Ray Cyrus",4.7
+StarStruck,2010,90 min,"Comedy, Family, Music",Michael Grossman,"Sterling Knight, Danielle Campbell, Maggie Castle",6.1
+Miss Americana,2020,85 min,"Documentary, Biography, Drama",Lana Wilson,"Taylor Swift, Andrea Swift, Scott Swift",7.4
+Kung Fu Panda,2008,92 min,"Animation, Action, Adventure","Mark Osborne, John Stevenson","Jack Black, Ian McShane, Angelina Jolie",7.6
+Kung Fu Panda 2,2011,90 min,"Animation, Action, Adventure",Jennifer Yuh Nelson,"Jack Black, Angelina Jolie, Jackie Chan",7.3
+The Hunger Games: The Ballad of Songbirds & Snakes,2023,157 min,"Action, Adventure, Drama",Francis Lawrence,"Rachel Zegler, Tom Blyth, Viola Davis",6.6
+Saltburn,2023,131 min,"Drama, Thriller",Emerald Fennell,"Barry Keoghan, Jacob Elordi, Rosamund Pike",7.0
+Taylor Swift: Reputation Stadium Tour,2018,125 min,"Music, Musical",Paul Dugdale,"Taylor Swift, David Cook, Amos Heller",8.4
+Diary of a Wimpy Kid,2010,94 min,"Comedy, Drama, Family",Thor Freudenthal,"Zachary Gordon, Robert Capron, Rachael Harris",6.3
+Diary of a Wimpy Kid: Rodrick Rules,2011,99 min,"Comedy, Family",David Bowers,"Zachary Gordon, Devon Bostick, Robert Capron",6.6
+Lemonade Mouth,2011,103 min,"Comedy, Drama, Family",Patricia Riggen,"Bridgit Mendler, Adam Hicks, Hayley Kiyoko",6.9
+Radio Rebel,2012,85 min,"Comedy, Drama, Family",Peter Howitt,"Debby Ryan, Sarena Parmar, Adam DiMarco",5.7
+Camp Rock 2: The Final Jam,2010,97 min,"Comedy, Family, Music",Paul Hoen,"Demi Lovato, Joe Jonas, Nick Jonas",5.2
+Camp Rock,2008,94 min,"Animation, Comedy, Family",Matthew Diamond,"Demi Lovato, Joe Jonas, Meaghan Martin",5.2
+Teen Beach 2,2015,104 min,"Drama, Family, Fantasy",Jeffrey Hornaday,"Ross Lynch, Maia Mitchell, Gracie Gillam",5.9
+Descendants,2015,115 min,"Action, Adventure, Comedy",Kenny Ortega,"Dove Cameron, Cameron Boyce, Booboo Stewart",6.3
+High School Musical 3: Senior Year,2008,112 min,"Comedy, Drama, Family",Kenny Ortega,"Zac Efron, Vanessa Hudgens, Ashley Tisdale",5.0
+High School Musical,2006,98 min,"Comedy, Drama, Family",Kenny Ortega,"Zac Efron, Vanessa Hudgens, Ashley French",5.6
+High School Musical 2,2007,104 min,"Comedy, Drama, Family",Kenny Ortega,"Zac Efron, Vanessa Hudgens, Ashley French",5.3
+Zombies,2018,94 min,"Adventure, Family, Fantasy",Paul Hoen,"Milo Manheim, Meg Donnelly, Trevor Tordjman",6.0
+Princess Protection Program,2009,90 min,"Comedy, Drama, Family",Allison Liddi-Brown,"Demi Lovato, Selena Gomez, Nicholas Braun",5.7
+Geek Charming,2011,94 min,"Comedy, Drama, Family",Jeffrey Hornaday,"Sarah Hyland, Matt Prokop, Sasha Pieterse",6.3
+Theater Camp,2023,92 min,Comedy,"Molly Gordon, Nick Lieberman","Ben Platt, Molly Gordon, Noah Galvin",6.9
+Música,2024,91 min,"Comedy, Music, Romance",Rudy Mancuso,"Rudy Mancuso, Camila Mendes, Francesca Reale",6.4
+Challengers,2024,131 min,"Comedy, Drama, Romance",Luca Guadagnino,"Mike Faist, Josh O'Connor, Zendaya",7.0
+West Side Story,2021,156 min,"Crime, Drama, Musical",Steven Spielberg,"Ansel Elgort, Rachel Zegler, Ariana DeBose",7.1
+Emma.,2020,124 min,"Comedy, Drama, Romance",Autumn de Wilde,"Anya Taylor-Joy, Johnny Flynn, Josh O'Connor",6.7
+Pinball: The Man Who Saved the Game,2022,95 min,"Biography, Comedy, Drama","Austin Bragg, Meredith Bragg","Mike Faist, Crystal Reed, Dennis Boutsikaris",7.0
+The Atlantic City Story,2020,98 min,Drama,Henry Butash,"Jessica Hecht, Mike Faist, Gary Wilmes",5.9
+Shiva Baby,2020,77 min,"Comedy, Drama",Emma Seligman,"Rachel Sennott, Danny Deferrari, Fred Melamed",7.1
+Lava,2014,7 min,"Animation, Short, Family",James Ford Murphy,"Napua Greig, Kuana Torres Kahele, Muneer Lyati",7.2
+Bao,2018,8 min,"Animation, Short, Drama",Domee Shi,"Sindy Lau, Kai Li, Sharmaine Yeoh",7.5
+Newsies: The Broadway Musical,2017,149 min,Musical,"Jeff Calhoun, Brett Sullivan","Jeremy Jordan, Kara Lindsay, Ben Fankhauser",8.2
+Sydney White,2007,108 min,"Comedy, Drama, Romance",Joe Nussbaum,"Amanda Bynes, Sara Paxton, Matt Long",6.2
+Set It Up,2018,105 min,"Comedy, Romance",Claire Scanlon,"Zoey Deutch, Glen Powell, Lucy Liu",6.5
+Brokeback Mountain,2005,134 min,"Drama, Romance",Ang Lee,"Jake Gyllenhaal, Heath Ledger, Michelle Williams",7.7
+Scott Pilgrim vs. the World,2010,112 min,"Action, Comedy, Fantasy",Edgar Wright,"Michael Cera, Mary Elizabeth Winstead, Kieran Culkin",7.5
+Lisa Frankenstein,2024,101 min,"Comedy, Horror, Romance",Zelda Williams,"Kathryn Newton, Liza Soberano, Jenna Davis",6.1
+Anyone But You,2023,103 min,"Comedy, Romance",Will Gluck,"Sydney Sweeney, Glen Powell, Alexandra Shipp",6.1
+Mamma Mia!,2008,108 min,"Comedy, Musical, Romance",Phyllida Lloyd,"Meryl Streep, Pierce Brosnan, Amanda Seyfried",6.5
+Mamma Mia! Here We Go Again,2018,114 min,"Comedy, Musical, Romance",Ol Parker,"Lily James, Amanda Seyfried, Meryl Streep",6.6
+No Hard Feelings,2023,103 min,"Comedy, Romance",Gene Stupnitsky,"Jennifer Lawrence, Andrew Barth Feldman, Laura Benanti",6.3
+The Last Five Years,2014,94 min,"Comedy, Drama, Musical",Richard LaGravenese,"Anna Kendrick, Jeremy Jordan, Tamara Mintz",5.9
+Dear Evan Hansen,2021,137 min,"Drama, Musical",Stephen Chbosky,"Ben Platt, Julianne Moore, Kaitlyn Dever",6.1
+Divergent,2014,139 min,"Action, Adventure, Drama",Neil Burger,"Shailene Woodley, Theo James, Kate Winslet",6.6
+The Divergent Series: Insurgent,2015,119 min,"Action, Adventure, Romance",Robert Schwentke,"Shailene Woodley, Ansel Elgort, Theo James",6.2
+The Divergent Series: Allegiant,2016,120 min,"Action, Adventure, Fantasy",Robert Schwentke,"Shailene Woodley, Theo James, Jeff Daniels",5.7
+John Tucker Must Die,2006,89 min,"Comedy, Romance",Betty Thomas,"Jesse Metcalfe, Ashanti, Arielle Kebbel",5.7
+Pitch Perfect 2,2015,115 min,"Comedy, Music",Elizabeth Banks,"Anna Kendrick, Rebel Wilson, Hailee Steinfeld",6.4
+Pitch Perfect 3,2017,93 min,"Comedy, Music",Trish Sie,"Anna Kendrick, Rebel Wilson, Brittany Snow",5.8
+Baby Driver,2017,113 min,"Action, Crime, Drama",Edgar Wright,"Ansel Elgort, Jon Bernthal, Jon Hamm",7.5
+Never Been Kissed,1999,107 min,"Comedy, Drama, Romance",Raja Gosnell,"Drew Barrymore, David Arquette, Michael Vartan",6.0
+Priscilla,2023,113 min,"Biography, Drama, Music",Sofia Coppola,"Cailee Spaeny, Jacob Elordi, Ari Cohen",6.5
+Dog Days,2012,N/A,"Short, Comedy",N/A,"Andrew Bear, Tiffany Ham, Kim Tasi McGuire, Jonathan Thompkins",N/A
+Glee: The 3D Concert Movie,2011,84 min,"Documentary, Comedy, Music","Kevin Tancharoen, Jennifer Arnold","Cory Monteith, Dianna Agron, Lea Michele",5.6
+Because I Said So,2007,102 min,"Comedy, Romance",Michael Lehmann,"Diane Keaton, Mandy Moore, Gabriel Macht",5.6
+Arrival,2016,116 min,"Drama, Mystery, Sci-Fi",Denis Villeneuve,"Amy Adams, Jeremy Renner, Forest Whitaker",7.9
+Saturday Night,2024,109 min,"Biography, Comedy, Drama",Jason Reitman,"Gabriel LaBelle, Rachel Sennott, Cory Michael Smith",6.9
+Scream,1996,111 min,"Horror, Mystery",Wes Craven,"Neve Campbell, Courteney Cox, David Arquette",7.4
+The Fall Guy,2024,126 min,"Action, Comedy, Drama",David Leitch,"Ryan Gosling, Emily Blunt, Aaron Taylor-Johnson",6.8
+Wizards of Waverly Place: The Movie,2009,94 min,"Action, Adventure, Comedy",Lev L. Spiro,"Selena Gomez, David Henrie, Jake T. Austin",6.2
+Scream 2,1997,120 min,"Horror, Mystery",Wes Craven,"Neve Campbell, Courteney Cox, David Arquette",6.3
+We Live in Time,2024,108 min,"Drama, Romance",John Crowley,"Andrew Garfield, Florence Pugh, Grace Delaney",7.0
+Wicked,2024,160 min,"Fantasy, Musical, Romance",Jon M. Chu,"Cynthia Erivo, Ariana Grande, Jeff Goldblum",7.4
+42nd Street: The Musical,2019,155 min,Musical,"Mark Bramble, Ross MacGibbon","Bonnie Langford, Tom Lister, Clare Halse",7.8
+Moulin Rouge!,2001,127 min,"Drama, Musical, Romance",Baz Luhrmann,"Nicole Kidman, Ewan McGregor, John Leguizamo",7.6
+Inside Out 2,2024,96 min,"Animation, Adventure, Comedy",Kelsey Mann,"Amy Poehler, Maya Hawke, Kensington Tallman",7.5
+Everyone Is Doing Great,2018–,37 min,Comedy,James Lafferty,"James Lafferty, Stephen Colletti, Alexandra Park",7.0
+Mr. & Mrs. Smith,2005,120 min,"Action, Comedy, Crime",Doug Liman,"Brad Pitt, Angelina Jolie, Adam Brody",6.5
+Sixteen Candles,1984,93 min,"Comedy, Romance",John Hughes,"Molly Ringwald, Anthony Michael Hall, Justin Henry",7.0
+One of Them Days,2025,97 min,Comedy,Lawrence Lamont,"Keke Palmer, SZA, Vanessa Bell Calloway",6.5
+Mickey 17,2025,137 min,"Adventure, Comedy, Fantasy",Bong Joon Ho,"Robert Pattinson, Steven Yeun, Michael Monroe",6.7
+Puppy Love,2023,106 min,"Comedy, Romance","Nick Fabiano, Richard Alan Reid","Lucy Hale, Grant Gustin, Nore Davis",6.3
+Bottled with Love,2019,84 min,"Drama, Romance",David Weaver,"Bethany Joy Lenz, Andrew W. Walker, Kate Craven",7.0
+Bride Wars,2009,89 min,"Comedy, Romance",Gary Winick,"Kate Hudson, Anne Hathaway, Candice Bergen",5.5
+Back to the Future Part II,1989,108 min,"Adventure, Comedy, Sci-Fi",Robert Zemeckis,"Michael J. Fox, Christopher Lloyd, Lea Thompson",7.8
+The Gorge,2025,128 min,"Action, Adventure, Horror",Scott Derrickson,"Miles Teller, Anya Taylor-Joy, Sigourney Weaver",6.7
+Back to the Future Part III,1990,118 min,"Adventure, Comedy, Sci-Fi",Robert Zemeckis,"Michael J. Fox, Christopher Lloyd, Mary Steenburgen",7.5
+Knives Out,2019,130 min,"Comedy, Crime, Drama",Rian Johnson,"Daniel Craig, Chris Evans, Ana de Armas",7.9
+Death of a Unicorn,2025,107 min,"Comedy, Fantasy, Horror",Alex Scharfman,"Paul Rudd, Jenna Ortega, Will Poulter",5.8
+Glass Onion,2022,139 min,"Comedy, Crime, Drama",Rian Johnson,"Daniel Craig, Edward Norton, Kate Hudson",7.1
+Snow White,2025,109 min,"Adventure, Family, Fantasy",Marc Webb,"Rachel Zegler, Emilia Faucher, Gal Gadot",2.1
+Past Lives,2023,105 min,"Drama, Romance",Celine Song,"Greta Lee, Teo Yoo, John Magaro",7.8
+Star Wars: Episode I - The Phantom Menace,1999,136 min,"Action, Adventure, Fantasy",George Lucas,"Ewan McGregor, Liam Neeson, Natalie Portman",6.5
+Star Wars: Episode II - Attack of the Clones,2002,142 min,"Action, Adventure, Fantasy",George Lucas,"Hayden Christensen, Natalie Portman, Ewan McGregor",6.6
+Solo: A Star Wars Story,2018,135 min,"Action, Adventure, Sci-Fi",Ron Howard,"Alden Ehrenreich, Woody Harrelson, Emilia Clarke",6.9
+Star Wars: Episode III - Revenge of the Sith,2005,140 min,"Action, Adventure, Fantasy",George Lucas,"Hayden Christensen, Natalie Portman, Ewan McGregor",7.7
+Star Wars: Episode V - The Empire Strikes Back,1980,124 min,"Action, Adventure, Fantasy",Irvin Kershner,"Mark Hamill, Harrison Ford, Carrie Fisher",8.7
+Star Wars: Episode VIII - The Last Jedi,2017,152 min,"Action, Adventure, Fantasy",Rian Johnson,"Daisy Ridley, John Boyega, Mark Hamill",6.8
+Star Wars: The Clone Wars,2008–2020,23 min,"Animation, Action, Adventure",N/A,"Tom Kane, Dee Bradley Baker, Matt Lanter",8.5
+A Simple Favor,2018,117 min,"Comedy, Crime, Mystery",Paul Feig,"Anna Kendrick, Blake Lively, Henry Golding",6.7
+Another Simple Favor,2025,120 min,"Comedy, Crime, Mystery",Paul Feig,"Blake Lively, Anna Kendrick, Allison Janney",5.3
+When Harry Met Sally...,1989,95 min,"Comedy, Drama, Romance",Rob Reiner,"Billy Crystal, Meg Ryan, Carrie Fisher",7.7
+Sinners,2025,137 min,"Action, Drama, Horror",Ryan Coogler,"Michael B. Jordan, Jack O&apos;Connell, Hailee Steinfeld",7.5
+Jumper,2008,88 min,"Action, Adventure, Sci-Fi",Doug Liman,"Hayden Christensen, Samuel L. Jackson, Jamie Bell",6.1
+Trainspotting,1996,93 min,"Crime, Drama",Danny Boyle,"Ewan McGregor, Ewen Bremner, Jonny Lee Miller",8.1
+Worth the Wait,2025,102 min,"Comedy, Drama, Romance",Tom Lin,"Lana Condor, Andrew Koji, Ross Butler",6.3
+Eternal Sunshine of the Spotless Mind,2004,108 min,"Drama, Romance, Sci-Fi",Michel Gondry,"Jim Carrey, Kate Winslet, Tom Wilkinson",8.3
+T2 Trainspotting,2017,117 min,"Comedy, Crime, Drama",Danny Boyle,"Ewan McGregor, Ewen Bremner, Jonny Lee Miller",7.1
+Grease 2,1982,115 min,"Comedy, Music, Musical",Patricia Birch,"Michelle Pfeiffer, Maxwell Caulfield, Lorna Luft",4.6
+Grease,1978,110 min,"Comedy, Musical, Romance",Randal Kleiser,"John Travolta, Olivia Newton-John, Stockard Channing",7.2
+Notting Hill,1999,124 min,"Comedy, Drama, Romance",Roger Michell,"Hugh Grant, Julia Roberts, Richard McCabe",7.2
+Step Up,2006,104 min,"Crime, Drama, Music",Anne Fletcher,"Channing Tatum, Jenna Dewan, Damaine Radcliff",6.5
+Step Up 2 the Streets,2008,98 min,"Drama, Music, Romance",Jon M. Chu,"Robert Hoffman, Briana Evigan, Cassie Ventura",6.2
+Step Up 3D,2010,107 min,"Drama, Music, Romance",Jon M. Chu,"Sharni Vinson, Rick Malambri, Adam Sevani",6.2
+Step Up: Revolution,2012,99 min,"Drama, Music, Romance",Scott Speer,"Kathryn McCormick, Ryan Guzman, Cleopatra Coleman",6.4
+Step Up All In,2014,112 min,"Drama, Music, Romance",Trish Sie,"Ryan Guzman, Briana Evigan, Adam Sevani",5.9
+But I'm a Cheerleader,1999,85 min,"Comedy, Drama, Romance",Jamie Babbit,"Natasha Lyonne, Clea DuVall, Michelle Williams",6.8
+Dead Poets Society,1989,128 min,"Comedy, Drama",Peter Weir,"Robin Williams, Robert Sean Leonard, Ethan Hawke",8.1
+One Direction: This Is Us,2013,92 min,"Documentary, Music",Morgan Spurlock,"Liam Payne, Harry Styles, Zayn Malik",4.4
+I Am Love,2009,120 min,"Drama, Romance",Luca Guadagnino,"Tilda Swinton, Flavio Parenti, Edoardo Gabbriellini",7.0
+A Bigger Splash,2015,125 min,"Drama, Music, Thriller",Luca Guadagnino,"Tilda Swinton, Matthias Schoenaerts, Ralph Fiennes",6.4
+Call Me by Your Name,2017,132 min,"Drama, Romance",Luca Guadagnino,"Timothée Chalamet, Armie Hammer, Michael Stuhlbarg",7.8
+Suspiria,2018,152 min,"Drama, Fantasy, Horror",Luca Guadagnino,"Chloë Grace Moretz, Tilda Swinton, Doris Hick",6.7
+Bones and All,2022,131 min,"Drama, Horror, Romance",Luca Guadagnino,"Timothée Chalamet, Taylor Russell, Mark Rylance",6.8
+While You Were Sleeping,1995,103 min,"Comedy, Drama, Romance",Jon Turteltaub,"Sandra Bullock, Bill Pullman, Peter Gallagher",6.8
+Queer,2024,137 min,"Biography, Drama, History",Luca Guadagnino,"Daniel Craig, Daan de Wit, Jason Schwartzman",6.4
+Bedtime Stories,2008,99 min,"Adventure, Comedy, Family",Adam Shankman,"Adam Sandler, Keri Russell, Courteney Cox",6.0
+Materialists,2025,116 min,"Comedy, Drama, Romance",Celine Song,"Dakota Johnson, Chris Evans, Pedro Pascal",6.2
+Sleepless in Seattle,1993,105 min,"Comedy, Drama, Romance",Nora Ephron,"Tom Hanks, Meg Ryan, Ross Malinger",6.8
+Bridesmaids,2011,125 min,Comedy,Paul Feig,"Kristen Wiig, Maya Rudolph, Rose Byrne",6.8
+Can't Buy Me Love,1987,94 min,"Comedy, Drama, Romance",Steve Rash,"Patrick Dempsey, Amanda Peterson, Courtney Gains",6.8
+Fantastic Four,2005,106 min,"Action, Adventure, Fantasy",Tim Story,"Ioan Gruffudd, Michael Chiklis, Chris Evans",5.7
+Fantastic Four: Rise of the Silver Surfer,2007,92 min,"Action, Adventure, Fantasy",Tim Story,"Ioan Gruffudd, Jessica Alba, Chris Evans",5.6
+A Nice Indian Boy,2025,96 min,"Comedy, Drama, Romance",Roshan Sethi,"Karan Soni, Jonathan Groff, Sunita Mani",7.3
+About Time,2013,123 min,"Comedy, Drama, Fantasy",Richard Curtis,"Domhnall Gleeson, Rachel McAdams, Bill Nighy",7.8
+Date Night,2010,88 min,"Comedy, Crime, Romance",Shawn Levy,"Steve Carell, Tina Fey, Mark Wahlberg",6.3
+Chicago,2002,113 min,"Comedy, Crime, Musical",Rob Marshall,"Renée Zellweger, Catherine Zeta-Jones, Richard Gere",7.2
+Confessions of a Teenage Drama Queen,2004,89 min,"Comedy, Family, Music",Sara Sugarman,"Lindsay Lohan, Megan Fox, Adam Garcia",4.7
+The Princess Bride,1987,98 min,"Adventure, Comedy, Family",Rob Reiner,"Cary Elwes, Mandy Patinkin, Robin Wright",8.0
+Wimbledon,2004,98 min,"Comedy, Romance, Sport",Richard Loncraine,"Kirsten Dunst, Paul Bettany, Jon Favreau",6.3
+When a Man Loves a Woman,1994,126 min,"Drama, Romance",Luis Mandoki,"Meg Ryan, Andy Garcia, Ellen Burstyn",6.6
+KPop Demon Hunters,2025,95 min,"Animation, Action, Adventure","Chris Appelhans, Maggie Kang","Arden Cho, May Hong, Ji-young Yoo",7.4
+Freaky Friday,2003,97 min,"Comedy, Family, Fantasy",Mark Waters,"Jamie Lee Curtis, Lindsay Lohan, Mark Harmon",6.4
+Bring It On,2000,98 min,"Comedy, Romance, Sport",Peyton Reed,"Kirsten Dunst, Eliza Dushku, Jesse Bradford",6.2
+Bring It On: Again,2004,90 min,"Comedy, Sport",Damon Santostefano,"Anne Judson-Yager, Bree Turner, Kevin Cooney, Faune Chambers Watkins",4.5
+Bring It On: All or Nothing,2006,99 min,"Comedy, Sport",Steve Rash,"Hayden Panettiere, Jake McDorman, JoJo Wright, Emme Rylan",5.6
+Bring It On: In It to Win It,2007,90 min,"Comedy, Sport",Steve Rash,"Ashley Benson, Cassandra Scerbo, Noel Areizaga, Jennifer Tisdale",5.2
+Bring It On: Fight to the Finish,2009,102 min,"Comedy, Sport",Bille Woodruff,"Christina Milian, Vanessa Born, Gabrielle Dennis, War Shazar",5.2
+Bring It On: Worldwide #Cheersmack,2017,95 min,"Comedy, Romance, Sport",Robert Adetuyi,"Stephan Benson, Kai Luke Brummer, Sophie de Bruyn",4.2
+Bring It On: Cheer or Die,2022,91 min,"Comedy, Horror",Karen Lam,"Kerri Medders, Alten Wilmot, Sierra Holder",3.7
+D.E.B.S.,2004,91 min,"Action, Comedy, Romance",Angela Robinson,"Sara Foster, Jordana Brewster, Devon Aoki",5.4
+She's the Man,2006,105 min,"Comedy, Romance, Sport",Andy Fickman,"Amanda Bynes, Channing Tatum, Laura Ramsey",6.4
+Monte Carlo,2011,109 min,"Adventure, Comedy, Family",Thomas Bezucha,"Selena Gomez, Leighton Meester, Katie Cassidy",5.8
+The Nanny Diaries,2007,105 min,"Comedy, Drama, Romance","Shari Springer Berman, Robert Pulcini","Scarlett Johansson, Laura Linney, Paul Giamatti",6.2
+Confessions of a Shopaholic,2009,104 min,"Comedy, Romance",P.J. Hogan,"Isla Fisher, Hugh Dancy, Krysten Ritter",5.9
+Booksmart,2019,102 min,Comedy,Olivia Wilde,"Kaitlyn Dever, Beanie Feldstein, Jessica Williams",7.1
+When in Rome,2010,91 min,"Comedy, Romance",Mark Steven Johnson,"Kristen Bell, Josh Duhamel, Anjelica Huston",5.5
+He's Just Not That Into You,2009,129 min,"Comedy, Drama, Romance",Ken Kwapis,"Ginnifer Goodwin, Jennifer Aniston, Jennifer Connelly",6.4
+The Fantastic Four: First Steps,2025,115 min,"Action, Adventure, Sci-Fi",Matt Shakman,"Pedro Pascal, Vanessa Kirby, Ebon Moss-Bachrach",6.8
+Death Becomes Her,1992,104 min,"Comedy, Fantasy, Horror",Robert Zemeckis,"Meryl Streep, Bruce Willis, Goldie Hawn",6.7
+The Rules of Attraction,2002,110 min,"Comedy, Drama, Romance",Roger Avary,"James Van Der Beek, Ian Somerhalder, Shannyn Sossamon",6.6
+"I, Tonya",2017,119 min,"Biography, Comedy, Drama",Craig Gillespie,"Margot Robbie, Sebastian Stan, Allison Janney",7.5
+The Cheetah Girls,2003,94 min,"Comedy, Drama, Family",Oz Scott,"Raven-Symoné, Adrienne Bailon-Houghton, Kiely Williams",5.0
+The Cheetah Girls 2,2006,96 min,"Comedy, Drama, Family",Kenny Ortega,"Raven-Symoné, Adrienne Houghton, Sabrina Bryan",5.1
+The Cheetah Girls: One World,2008,90 min,"Comedy, Drama, Family",Paul Hoen,"Adrienne Houghton, Sabrina Bryan, Kiely Williams",4.7
+My Old Ass,2024,89 min,"Comedy, Drama, Romance",Megan Park,"Maisy Stella, Aubrey Plaza, Percy Hynes White",6.9
+She's Out of My League,2010,104 min,"Comedy, Romance",Jim Field Smith,"Jay Baruchel, Alice Eve, T.J. Miller",6.4
+Gilmore Girls: A Year in the Life,2016,2 min,"Comedy, Drama",N/A,"Lauren Graham, Alexis Bledel, Scott Patterson",7.4
+Wild Child,2008,98 min,Comedy,Nick Moore,"Emma Roberts, Aidan Quinn, Natasha Richardson",6.1
+Ice Princess,2005,98 min,"Comedy, Drama, Family",Tim Fywell,"Michelle Trachtenberg, Kim Cattrall, Trevor Blumas",6.1
+Pretty in Pink,1986,97 min,"Comedy, Drama, Romance",Howard Deutch,"Molly Ringwald, Jon Cryer, Harry Dean Stanton",6.7
+You've Got Mail,1998,119 min,"Comedy, Drama, Romance",Nora Ephron,"Tom Hanks, Meg Ryan, Greg Kinnear",6.7
+The Virgin Suicides,1999,97 min,"Drama, Romance",Sofia Coppola,"Kirsten Dunst, Josh Hartnett, James Woods",7.2
+Fantastic Mr. Fox,2009,87 min,"Animation, Adventure, Comedy",Wes Anderson,"George Clooney, Meryl Streep, Bill Murray",7.9
+Drive,2011,100 min,"Action, Drama",Nicolas Winding Refn,"Ryan Gosling, Carey Mulligan, Bryan Cranston",7.8
+Superbad,2007,113 min,Comedy,Greg Mottola,"Michael Cera, Jonah Hill, Christopher Mintz-Plasse",7.6
+The Map That Leads to You,2025,96 min,"Drama, Romance",Lasse Hallström,"Madelyn Cline, KJ Apa, Sofia Wylie",6.2
+Zombieland: Double Tap,2019,99 min,"Action, Comedy, Horror",Ruben Fleischer,"Woody Harrelson, Jesse Eisenberg, Emma Stone",6.7
+Zombieland,2009,88 min,"Action, Comedy, Horror",Ruben Fleischer,"Jesse Eisenberg, Emma Stone, Woody Harrelson",7.5
+The Roses,2025,105 min,Comedy,Jay Roach,"Olivia Colman, Benedict Cumberbatch, Kate McKinnon",6.6
+Stay the Night,2022,89 min,"Drama, Romance",Renuka Jeyapalan,"Andrea Bang, Joe Scarpellino, Humberly González",6.6
+Taylor Swift: The Official Release Party of a Showgirl,2025,89 min,Music,Taylor Swift,"Taylor Swift, Fletcher Alliston, Colin Anderson",6.8
+The Longest Ride,2015,123 min,"Drama, Romance",George Tillman Jr.,"Scott Eastwood, Britt Robertson, Alan Alda",7.0
+The Last Song,2010,107 min,"Drama, Music, Romance",Julie Anne Robinson,"Miley Cyrus, Liam Hemsworth, Greg Kinnear",6.0
+The Notebook,2004,123 min,"Drama, Romance",Nick Cassavetes,"Gena Rowlands, James Garner, Rachel McAdams",7.8
+Girl vs. Monster Live Game Challenge,2012–,N/A,N/A,N/A,N/A,N/A
+Cruel Intentions,1999,97 min,"Drama, Romance",Roger Kumble,"Sarah Michelle Gellar, Ryan Phillippe, Reese Witherspoon",6.8
+5 Seconds of Summer - The 5 Seconds of Summer Show - Live in Amsterdam,2023,N/A,Music,"James Tonkin, Ryan Fleming","Michael Clifford, Luke Hemmings, Calum Hood",N/A
+On the Record: 5 Seconds of Summer - Youngblood,2018,N/A,Short,Charles Todd,"Luke Hemmings, Ashton Irwin",N/A
+Five Seconds of Summer: How Did We End Up Here? Live at Wembley Arena,2015,95 min,Music,"Paul Caslin, David Soutar","Alex Gaskarth, Michael Clifford, Luke Hemmings, Calum Hood",9.0
+The 5 Seconds of Summer Show,2021,76 min,Music,"Jason Lester, Nick Lopez","5 Seconds of Summer, Michael Clifford, Luke Hemmings",N/A
+Bebe Rexha Live: On the Record,2018,30 min,"Short, Music",Sam Wrench,Bebe Rexha,N/A
+Thank You for Smoking,2005,92 min,"Comedy, Drama",Jason Reitman,"Aaron Eckhart, Cameron Bright, Maria Bello",7.5
+First Daughter,2004,106 min,"Comedy, Drama, Romance",Forest Whitaker,"Katie Holmes, Marc Blucas, Michael Keaton",5.2
+Twilight,2008,122 min,"Drama, Fantasy, Romance",Catherine Hardwicke,"Kristen Stewart, Robert Pattinson, Billy Burke",5.4
+The Twilight Saga: New Moon,2009,130 min,"Adventure, Drama, Fantasy",Chris Weitz,"Kristen Stewart, Robert Pattinson, Taylor Lautner",4.8
+Encanto,2021,102 min,"Animation, Comedy, Family","Jared Bush, Charise Castro Smith, Byron Howard","Stephanie Beatriz, María Cecilia Botero, John Leguizamo",7.2
+Frozen,2013,102 min,"Animation, Adventure, Comedy","Chris Buck, Jennifer Lee","Kristen Bell, Idina Menzel, Jonathan Groff",7.4
+Wreck-It Ralph,2012,101 min,"Animation, Adventure, Comedy",Rich Moore,"John C. Reilly, Jack McBrayer, Jane Lynch",7.7
+Ice Age,2002,81 min,"Animation, Adventure, Comedy","Chris Wedge, Carlos Saldanha","Denis Leary, John Leguizamo, Ray Romano",7.5
+Continental Drift,2012,15 min,"Short, Drama, Romance",Anna Helme,"Hilary Park, Claudia Greenstone, James Monarski",N/A
+Ice Age: The Meltdown,2006,91 min,"Animation, Adventure, Comedy",Carlos Saldanha,"Ray Romano, John Leguizamo, Denis Leary",6.8
+Frozen II,2019,103 min,"Animation, Adventure, Comedy","Chris Buck, Jennifer Lee","Kristen Bell, Idina Menzel, Josh Gad",6.8
+Raya and the Last Dragon,2021,107 min,"Animation, Action, Adventure","Don Hall, Carlos López Estrada, Paul Briggs","Kelly Marie Tran, Awkwafina, Gemma Chan",7.3
+Heathers,1989,103 min,"Comedy, Crime",Michael Lehmann,"Winona Ryder, Christian Slater, Shannen Doherty",7.1
+Eclipse,2010,20 min,"Short, Music",Alberte Pagán,N/A,6.4
+Gangster Squad,2013,113 min,"Action, Crime, Drama",Ruben Fleischer,"Sean Penn, Ryan Gosling, Emma Stone",6.7
+Friends with Benefits,2011,109 min,"Comedy, Romance",Will Gluck,"Mila Kunis, Justin Timberlake, Patricia Clarkson",6.5
+Easy A,2010,92 min,"Comedy, Drama, Romance",Will Gluck,"Emma Stone, Amanda Bynes, Penn Badgley",7.0
+The Lego Batman Movie,2017,104 min,"Animation, Action, Adventure",Chris McKay,"Will Arnett, Michael Cera, Rosario Dawson",7.3
+The Twilight Saga: Breaking Dawn - Part 1,2011,117 min,"Adventure, Drama, Fantasy",Bill Condon,"Kristen Stewart, Robert Pattinson, Taylor Lautner",4.9
+The Twilight Saga: Breaking Dawn - Part 2,2012,115 min,"Adventure, Drama, Fantasy",Bill Condon,"Kristen Stewart, Robert Pattinson, Taylor Lautner",5.6
+Wicked: For Good,2025,137 min,"Drama, Family, Fantasy",Jon M. Chu,"Cynthia Erivo, Ariana Grande, Jeff Goldblum",6.6
+The Greatest Showman,2017,105 min,"Biography, Drama, Musical",Michael Gracey,"Hugh Jackman, Michelle Williams, Zac Efron",7.5
+The Internship,2013,119 min,Comedy,Shawn Levy,"Vince Vaughn, Owen Wilson, Rose Byrne",6.3
+All Too Well: The Short Film,2021,15 min,"Short, Biography, Drama",Taylor Swift,"Sadie Sink, Dylan O'Brien, Taylor Swift",8.4
+Two Night Stand,2014,86 min,"Comedy, Romance",Max Nichols,"Miles Teller, Lio Tipton, Jessica Szohr",6.3
+That Awkward Moment,2014,94 min,"Comedy, Romance",Tom Gormican,"Zac Efron, Michael B. Jordan, Miles Teller",6.1
+Happiest Season,2020,102 min,"Comedy, Romance",Clea DuVall,"Kristen Stewart, Mackenzie Davis, Mary Steenburgen",6.6
+A Very Jonas Christmas Movie,2025,80 min,"Comedy, Musical",Jessica Yu,"Kevin Jonas, Joe Jonas, Chloe Bennet",5.9
+Bridge to Terabithia,2007,96 min,"Drama, Family, Fantasy",Gabor Csupo,"Josh Hutcherson, AnnaSophia Robb, Zooey Deschanel",7.2
+Holes,2003,117 min,"Adventure, Comedy, Drama",Andrew Davis,"Shia LaBeouf, Sigourney Weaver, Jon Voight",7.0
+Planet of the Apes,2001,120 min,"Action, Adventure, Sci-Fi",Tim Burton,"Mark Wahlberg, Helena Bonham Carter, Tim Roth",5.7
+The Prince of Egypt,1998,99 min,"Animation, Adventure, Drama","Brenda Chapman, Steve Hickner, Simon Wells","Val Kilmer, Ralph Fiennes, Michelle Pfeiffer",7.2
+"I, Robot",2004,115 min,"Action, Mystery, Sci-Fi",Alex Proyas,"Will Smith, Bridget Moynahan, Bruce Greenwood",7.1
+Mad City,1997,115 min,"Crime, Drama, Thriller",Costa-Gavras,"John Travolta, Dustin Hoffman, Alan Alda",6.3
+Macbeth,2015,113 min,"Drama, History, War",Justin Kurzel,"Michael Fassbender, Marion Cotillard, Jack Madigan",6.6
+The Shack,2017,132 min,"Drama, Fantasy",Stuart Hazeldine,"Sam Worthington, Octavia Spencer, Tim McGraw",6.3
+Life of Pi,2012,127 min,"Adventure, Drama, Fantasy",Ang Lee,"Suraj Sharma, Irrfan Khan, Ayush Tandon",7.9
+Romeo + Juliet,1996,120 min,"Drama, Romance",Baz Luhrmann,"Leonardo DiCaprio, Claire Danes, John Leguizamo",6.7
+Romeo and Juliet,1968,138 min,"Drama, Romance",Franco Zeffirelli,"Leonard Whiting, Olivia Hussey, John McEnery",7.6
+The Outsiders,1983,91 min,"Crime, Drama",Francis Ford Coppola,"C. Thomas Howell, Matt Dillon, Ralph Macchio",7.0
+The Fault in Our Stars,2014,126 min,"Drama, Romance",Josh Boone,"Shailene Woodley, Ansel Elgort, Nat Wolff",7.6
+Five Feet Apart,2019,116 min,"Drama, Romance",Justin Baldoni,"Haley Lu Richardson, Cole Sprouse, Moises Arias",7.2
+Midnight Sun,2018,91 min,"Drama, Romance",Scott Speer,"Bella Thorne, Patrick Schwarzenegger, Rob Riggle",6.6
+Santa Buddies,2009,88 min,"Adventure, Family, Fantasy",Robert Vince,"Craig Anton, Andrew Astor, Charisse Baker, Danny Woodburn",4.6
+Noelle,2019,100 min,"Comedy, Family, Fantasy",Marc Lawrence,"Anna Kendrick, Shirley MacLaine, Bill Hader",6.3
+Marty Supreme,2025,149 min,"Drama, Sport",Josh Safdie,"Timothée Chalamet, Gwyneth Paltrow, Odessa A&apos;zion",7.7
+People We Meet on Vacation,2026,N/A,Romance,Brett Haley,"Lukas Gage, Sarah Catherine Hook, Tom Blyth",N/A
+F*&% the Prom,2017,92 min,"Comedy, Drama",Benny Fine,"Danielle Campbell, Joel Courtney, Madelaine Petsch",4.2
+Tomb Raider,2018,119 min,"Action, Adventure, Fantasy",Roar Uthaug,"Alicia Vikander, Dominic West, Walton Goggins",6.3
+"Extremely Wicked, Shockingly Evil and Vile",2019,110 min,"Biography, Crime, Drama",Joe Berlinger,"Lily Collins, Zac Efron, Angela Sarafyan",6.7
+Nanny McPhee,2005,97 min,"Comedy, Family, Fantasy",Kirk Jones,"Emma Thompson, Colin Firth, Angela Lansbury",6.6
+Blue Valentine,2010,112 min,"Drama, Romance",Derek Cianfrance,"Ryan Gosling, Michelle Williams, John Doman",7.3
+Zootopia 2,2025,108 min,"Animation, Adventure, Comedy","Jared Bush, Byron Howard","Ginnifer Goodwin, Jason Bateman, Ke Huy Quan",7.3
+Send Help,2026,113 min,"Adventure, Horror, Thriller",Sam Raimi,"Rachel McAdams, Dylan O'Brien, Edyll Ismail",6.9
+Miss Congeniality,2000,109 min,"Action, Comedy, Crime",Donald Petrie,"Sandra Bullock, Michael Caine, Benjamin Bratt",6.4
+Kokuho,2025,N/A,Drama,Sang-il Lee,"Ai Mikami, Takahiro Miura, Emma Miyazawa",N/A
+The Shining,1980,146 min,"Drama, Horror",Stanley Kubrick,"Jack Nicholson, Shelley Duvall, Danny Lloyd",8.4
+How to Make a Killing,2026,105 min,"Comedy, Drama, Thriller",John Patton Ford,"Glen Powell, Margaret Qualley, Jessica Henwick",6.5
+The Mighty Ducks,1992,104 min,"Comedy, Drama, Family",Stephen Herek,"Emilio Estevez, Joss Ackland, Lane Smith",6.6
+Ready or Not 2: Here I Come,2026,108 min,"Comedy, Horror, Thriller","Matt Bettinelli-Olpin, Tyler Gillett","Samara Weaving, Kathryn Newton, Elijah Wood",6.5
+Hoppers,2026,104 min,"Animation, Adventure, Comedy",Daniel Chong,"Piper Curda, Bobby Moynihan, Jon Hamm",7.4
+Bohemian Rhapsody,2018,134 min,"Biography, Drama, Music",Bryan Singer,"Rami Malek, Lucy Boynton, Gwilym Lee",7.9
+Mulan,1998,87 min,"Animation, Adventure, Comedy","Tony Bancroft, Barry Cook","Ming-Na Wen, Eddie Murphy, BD Wong",7.7
+Avatar Aang: The Last Airbender,2026,99 min,"Animation, Action, Adventure","Steve Ahn, William Mata, Lauren Montgomery","Eric Nam, Dave Bautista, Jessica Matten",N/A
+Project Hail Mary,2026,156 min,"Adventure, Comedy, Drama","Phil Lord, Christopher Miller","Ryan Gosling, Sandra Hüller, James Ortiz",8.2
+Eternity,2025,114 min,"Comedy, Drama, Fantasy",David Freyne,"Miles Teller, Elizabeth Olsen, Callum Turner",6.9
+Hairspray,2007,117 min,"Comedy, Drama, Musical",Adam Shankman,"John Travolta, Queen Latifah, Nikki Blonsky",6.7
+Superman,2025,129 min,"Action, Adventure, Sci-Fi",James Gunn,"David Corenswet, Rachel Brosnahan, Nicholas Hoult",7.0
+Aladdin,2019,128 min,"Adventure, Comedy, Family",Guy Ritchie,"Will Smith, Mena Massoud, Naomi Scott",6.9
+The Polar Express,2004,100 min,"Animation, Adventure, Family",Robert Zemeckis,"Tom Hanks, Chris Coppola, Michael Jeter",6.6
+Obsession,2025–,N/A,Drama,N/A,"Natasha Majhi, Nitin Bhatia, Rohit Sagar",N/A
+The Odyssey,2026,172 min,"Action, Adventure, Fantasy",Christopher Nolan,"Matt Damon, Tom Holland, Anne Hathaway",8.4
