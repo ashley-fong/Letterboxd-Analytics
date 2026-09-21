@@ -67,6 +67,12 @@ def main():
 
         elif title == "A Nice Indian Boy":
             movie_data = get_movie_details(title, "2025", MY_KEY)
+
+        elif title == "Shiva Baby":
+            movie_data = get_movie_details(title, "2021", MY_KEY)
+
+        elif title == "Stuck in Love":
+            movie_data = get_movie_details(title, "2013", MY_KEY)
                     
         elif ": " in title:
             result = title.split(": ")
@@ -104,6 +110,6 @@ def main():
     df2 = df[['Title', 'Year', 'Runtime', 'Genre', 'Director', 'Actors', 'imdbRating']]
 
 
-    df2.to_csv("test.csv", index=False)
+    df2.to_csv("/Users/ashleyfong/Documents/Letterboxd/Letterboxd-Analytics/1_raw_data/omdb/omdb_data.csv", index=False)
 
 main()
