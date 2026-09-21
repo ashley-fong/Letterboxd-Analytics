@@ -5,11 +5,21 @@ In the summer of 2025, I set a goal for myself: watch 100 movies in 117 days. I 
 
 I wanted to see what I could learn from the data behind this challenge. I was curious about how my ratings were distributed, which months I watched the most movies, how many movies I "liked," and what other patterns I could uncover. Luckily, I recorded it all on [Letterboxd](https://boxd.it/GNKdW), a website where people can log, rate, and review movies, create lists, and see what others are watching.
 
-I decided to expand this idea and analyze all the movies I've reviewed and rated on my account. I compare viewing activity, ratings, and other metrics year over year to explore patterns in my movie-watching habits — including whether I consistently watch more movies during certain months and whether my ratings have changed over time.
+I decided to expand this idea and analyze all the movies I've reviewed and rated on my account. I compare viewing activity, ratings, and other metrics year over year to explore patterns in my movie watching habits, including whether I consistently watch more movies during certain months and whether my ratings have changed over time.
 
 To take this one step further, I wanted to delve into my highest rated genres, actors, and directors as well as how my ratings compare to that of the general public. As Letterboxd exports do not provide this, I used the OMDb API to retrieve additional data for each movie logged on my account. I then joined this with my Letterboxd records, creating an enhanced dataset for further analysis and to uncover additional patterns.
 
 ### Questions I'm Exploring
+- how have my ratings changed overtime?
+    - is rating average increasing or decreasing? 
+    - have I become a harsher critic? 
+- do I consistently watch more movies in certain months? 
+- do I watch more movies on a certain day of the week?
+- how is my movie taste expanding overtime?   
+    - in terms of: genre, decade, director, actors
+- what receives the highest ratings / what are my favourites?
+    - in terms of: genre, decade, director, actors
+- how do my ratings compare with the general public?
 
 ### Methodology 
 
